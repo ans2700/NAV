@@ -1,0 +1,3 @@
+ababc a abc b bc 
+abc a a b abc
+a d z abc def
