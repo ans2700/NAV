@@ -9,6 +9,7 @@ public class TwoStringRotations {
             System.out.println("str2 is NOT a rotation of str1");
         } else {
             String concat = str1 + str1;
+            
             if (concat.contains(str2)) {
                 System.out.println("str2 IS a rotation of str1");
             } else {

@@ -12,7 +12,7 @@ public class NegativeToOneEnd {
           arr[i]=arr[j];
           arr[j]=temp;
           j++;
-        }
+        } 
       }
       for(int i=0;i<arr.length;i++)
       {

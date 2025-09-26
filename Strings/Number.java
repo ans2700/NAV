@@ -30,3 +30,4 @@ public class Number {
     }
     System.out.println("String is":+s.substring(st,st+slen));
 }
+}

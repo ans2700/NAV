@@ -7,7 +7,6 @@ public class CheckRotations {
         for(int i=0;i<n;i++)
         {
             if(s1.equals(s2))
-
             {
                 return true;
             }
